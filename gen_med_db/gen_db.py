@@ -4,7 +4,7 @@ import math
 import pdb
 
 random.seed(100)
-root_dir = '../data'
+root_dir = 'data'
 image_dir = '%s/images' % root_dir
 train_db_file = '%s/train.pkl' % root_dir
 val_db_file = '%s/val.pkl' % root_dir
